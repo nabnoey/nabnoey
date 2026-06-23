@@ -47,28 +47,29 @@
 
 ## 🚀 Featured Projects
 
-<!-- ใช้เป็นภาพ Card แทนการพิมพ์ตัวหนังสือแบบเดิม -->
 <div align="center">
-  <a href="https://github.com/nabnoey/laundry-management">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nabnoey&repo=laundry-management&bg_color=FDFBF7&title_color=3E362E&text_color=5C544D&icon_color=A69688&border_color=E8DFD5&border_radius=10" width="48%" />
+  <br>
+  
+  <a href="https://github.com/nabnoey">
+    <img src="https://img.shields.io/badge/🧺_Laundry_Management-E8DFD5?style=for-the-badge&logo=github&logoColor=3E362E&labelColor=FDFBF7&color=E8DFD5" height="45"/>
   </a>
-  <a href="https://github.com/nabnoey/devclub-member">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nabnoey&repo=devclub-member&bg_color=FDFBF7&title_color=3E362E&text_color=5C544D&icon_color=A69688&border_color=E8DFD5&border_radius=10" width="48%" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/nabnoey">
+    <img src="https://img.shields.io/badge/👥_DevClub_Portal-E8DFD5?style=for-the-badge&logo=github&logoColor=3E362E&labelColor=FDFBF7&color=E8DFD5" height="45"/>
   </a>
-</div>
-
-<div align="center">
+  
+  <br><br>
+  
   <a href="https://github.com/nabnoey/storemate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nabnoey&repo=storemate&bg_color=FDFBF7&title_color=3E362E&text_color=5C544D&icon_color=A69688&border_color=E8DFD5&border_radius=10" width="48%" />
+    <img src="https://img.shields.io/badge/🛒_StoreMate-E8DFD5?style=for-the-badge&logo=github&logoColor=3E362E&labelColor=FDFBF7&color=E8DFD5" height="45"/>
   </a>
-  <a href="https://github.com/nabnoey/cinebunny">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nabnoey&repo=cinebunny&bg_color=FDFBF7&title_color=3E362E&text_color=5C544D&icon_color=A69688&border_color=E8DFD5&border_radius=10" width="48%" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/nabnoey">
+    <img src="https://img.shields.io/badge/🎬_CineBunny-E8DFD5?style=for-the-badge&logo=github&logoColor=3E362E&labelColor=FDFBF7&color=E8DFD5" height="45"/>
   </a>
+  
+  <br><br>
 </div>
-
-<br/>
-
-## 🤝 Let's Connect
 
 <div align="center">
 
