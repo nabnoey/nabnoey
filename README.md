@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E8F8FF&height=160&section=header&text=Nabnoey&fontSize=55&fontColor=7AC7E8"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFF9F2&height=160&section=header&text=Nabnoey&fontSize=55&fontColor=FFB6C1"/>
 
 </div>
 
 
 <h3 align="center">
-🩵 Frontend Developer | BA Intern Candidate 🩷
+🎀 Frontend Developer | BA Intern Candidate 🎀
 </h3>
 
 
@@ -18,7 +18,7 @@ Creating simple & cute web experiences ✨
 <br>
 
 
-## 🌷 About Me
+## 🥞 About Me
 
 Hi! I'm Nabnoey 💕
 
@@ -31,7 +31,7 @@ Hi! I'm Nabnoey 💕
 <br>
 
 
-## 🧸 Skills
+## 🧁 Skills
 
 <p align="center">
 
@@ -43,7 +43,7 @@ Hi! I'm Nabnoey 💕
 <br>
 
 
-## 🍰 My Projects
+## 🍓 My Projects
 
 
 | Project | Description |
@@ -57,12 +57,12 @@ Hi! I'm Nabnoey 💕
 <br>
 
 
-## 📊 GitHub
+## 🍰 GitHub
 
 
 <p align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=nabnoey&show_icons=true&theme=default&bg_color=ffffff&title_color=7AC7E8&icon_color=FF9FCF&text_color=555555&hide_border=true"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=nabnoey&show_icons=true&theme=default&bg_color=FFF9F2&title_color=FFB6C1&icon_color=FFB6C1&text_color=666666&hide_border=true"/>
 
 </p>
 
@@ -75,11 +75,11 @@ Hi! I'm Nabnoey 💕
 <p align="center">
 
 <a href="https://github.com/nabnoey">
-<img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=7AC7E8"/>
+<img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=FFB6C1"/>
 </a>
 
 <a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=FF9FCF"/>
+<img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=FFB6C1"/>
 </a>
 
 </p>
