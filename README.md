@@ -56,13 +56,7 @@
 
 <br/>
 
-## 🏆 Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nabnoey&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
-
-</div>
 
 <br/>
 
