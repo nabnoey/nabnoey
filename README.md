@@ -1,135 +1,92 @@
-<h1 align="center">
-  ✨ Hi, I'm Nabnoey ✨
-</h1>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E8F8FF&height=160&section=header&text=Nabnoey&fontSize=55&fontColor=7AC7E8"/>
+
+</div>
+
+
+<h3 align="center">
+🩵 Frontend Developer | BA Intern Candidate 🩷
+</h3>
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=7EC8E3&center=true&vCenter=true&width=500&lines=Frontend+Developer;Business+Analyst+Intern+Candidate;UI%2FUX+Enthusiast"/>
+Creating simple & cute web experiences ✨
 </p>
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Nabnoey's%20Profile&fontSize=45&fontColor=ffffff"/>
-</p>
+<br>
 
 
 ## 🌷 About Me
 
-🎓 Computer Science Student  
-💻 Frontend Developer in progress  
-📌 Interested in Business Analysis & UX/UI  
-✨ Love creating beautiful and user-friendly websites  
+Hi! I'm Nabnoey 💕
+
+- 🎓 Computer Science Student
+- 💻 Frontend Developer (Vue / React)
+- 📌 Interested in Business Analysis & UX/UI
+- 🌱 Always learning new things
 
 
-<br/>
+<br>
 
 
-## 🧁 Tech Stack
+## 🧸 Skills
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,git,github,mysql&theme=light"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nodejs,git,github,mysql&theme=light"/>
 
 </p>
 
 
-<br/>
+<br>
 
 
-## 🎀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎬 CineBunny
-
-Movie website UI  
-✨ Vue 3  
-✨ Responsive Design  
-
-</td>
-
-<td width="50%">
-
-### 🛒 StoreMate
-
-E-commerce System
-
-✨ Frontend  
-✨ Role Management  
-✨ Product System  
-
-</td>
-</tr>
+## 🍰 My Projects
 
 
-<tr>
-<td>
-
-### ☕ HOP COFFEE
-
-Coffee Website
-
-✨ UI Design  
-✨ Responsive Website
-
-</td>
-
-<td>
-
-### 🧪 Testing Project
-
-Software Testing
-
-✨ Katalon Studio  
-✨ Test Case Design
-
-</td>
-</tr>
-
-</table>
+| Project | Description |
+|---|---|
+| 🎬 CineBunny | Movie Website with Vue 3 |
+| ☕ HOP COFFEE | Responsive Coffee Website |
+| 🛒 StoreMate | E-commerce System |
+| 🧪 Testing | Katalon Test Project |
 
 
-<br/>
+<br>
 
 
-## 🌸 GitHub Stats
+## 📊 GitHub
+
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nabnoey&show_icons=true&theme=rose_pine&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabnoey&layout=compact&theme=rose_pine&hide_border=true"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=nabnoey&show_icons=true&theme=default&bg_color=ffffff&title_color=7AC7E8&icon_color=FF9FCF&text_color=555555&hide_border=true"/>
 
 </p>
 
 
-<br/>
+<br>
 
 
-## 🐰 Contribution
-
-<img src="https://raw.githubusercontent.com/nabnoey/nabnoey/output/github-contribution-grid-snake.svg">
-
-
-<br/>
-
-
-## 💌 Contact Me
+## 🌸 Let's Connect
 
 <p align="center">
-
-<a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Email-ffb6c1?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
 <a href="https://github.com/nabnoey">
-<img src="https://img.shields.io/badge/GitHub-9ad0ec?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=7AC7E8"/>
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=FF9FCF"/>
 </a>
 
 </p>
 
 
-<p align="center">
-🌷 Thank you for visiting my profile 🌷
-</p>
+<div align="center">
+
+✨ Thanks for visiting my little space ✨
+
+</div>
