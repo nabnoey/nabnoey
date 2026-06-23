@@ -48,27 +48,21 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-  <br>
-  
-  <a href="https://github.com/nabnoey">
-    <img src="https://img.shields.io/badge/🧺_Laundry_Management-E8DFD5?style=for-the-badge&logo=github&logoColor=3E362E&labelColor=FDFBF7&color=E8DFD5" height="45"/>
+  <a href="https://github.com/nabnoey/ใส่ชื่อโปรเจกต์ที่1ตรงนี้">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nabnoey&repo=ใส่ชื่อโปรเจกต์ที่1ตรงนี้&bg_color=FDFBF7&title_color=3E362E&text_color=5C544D&icon_color=A69688&border_color=E8DFD5&border_radius=10" width="48%" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/nabnoey">
-    <img src="https://img.shields.io/badge/👥_DevClub_Portal-E8DFD5?style=for-the-badge&logo=github&logoColor=3E362E&labelColor=FDFBF7&color=E8DFD5" height="45"/>
+  <a href="https://github.com/nabnoey/ใส่ชื่อโปรเจกต์ที่2ตรงนี้">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nabnoey&repo=ใส่ชื่อโปรเจกต์ที่2ตรงนี้&bg_color=FDFBF7&title_color=3E362E&text_color=5C544D&icon_color=A69688&border_color=E8DFD5&border_radius=10" width="48%" />
   </a>
-  
-  <br><br>
-  
-  <a href="https://github.com/nabnoey/storemate">
-    <img src="https://img.shields.io/badge/🛒_StoreMate-E8DFD5?style=for-the-badge&logo=github&logoColor=3E362E&labelColor=FDFBF7&color=E8DFD5" height="45"/>
+</div>
+
+<div align="center">
+  <a href="https://github.com/nabnoey/ใส่ชื่อโปรเจกต์ที่3ตรงนี้">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nabnoey&repo=ใส่ชื่อโปรเจกต์ที่3ตรงนี้&bg_color=FDFBF7&title_color=3E362E&text_color=5C544D&icon_color=A69688&border_color=E8DFD5&border_radius=10" width="48%" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/nabnoey">
-    <img src="https://img.shields.io/badge/🎬_CineBunny-E8DFD5?style=for-the-badge&logo=github&logoColor=3E362E&labelColor=FDFBF7&color=E8DFD5" height="45"/>
+  <a href="https://github.com/nabnoey/ใส่ชื่อโปรเจกต์ที่4ตรงนี้">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nabnoey&repo=ใส่ชื่อโปรเจกต์ที่4ตรงนี้&bg_color=FDFBF7&title_color=3E362E&text_color=5C544D&icon_color=A69688&border_color=E8DFD5&border_radius=10" width="48%" />
   </a>
-  
-  <br><br>
 </div>
 
 <div align="center">
